@@ -1,0 +1,3 @@
+[submodule "llm-benchmark"]
+	path = llm-benchmark
+	url = https://github.com/simickajecka/llm-benchmark.git
