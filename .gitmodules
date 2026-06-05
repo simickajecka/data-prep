@@ -1,3 +1,6 @@
 [submodule "llm-benchmark"]
 	path = llm-benchmark
 	url = https://github.com/simickajecka/llm-benchmark.git
+[submodule "property-scraper"]
+	path = property-scraper
+	url = https://github.com/simickajecka/property-scraper.git
