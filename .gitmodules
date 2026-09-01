@@ -7,3 +7,6 @@
 [submodule "listings-data-layer"]
 	path = listings-data-layer
 	url = https://github.com/simickajecka/listings-data-layer.git
+[submodule "prototypes"]
+	path = prototypes
+	url = https://github.com/simickajecka/prototypes.git
