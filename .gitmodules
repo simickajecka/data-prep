@@ -1,6 +1,9 @@
 [submodule "llm-benchmark"]
 	path = llm-benchmark
 	url = https://github.com/simickajecka/llm-benchmark.git
-[submodule "property-scraper"]
-	path = property-scraper
-	url = https://github.com/simickajecka/property-scraper.git
+[submodule "listings-harvest"]
+	path = listings-harvest
+	url = https://github.com/simickajecka/listings-harvest.git
+[submodule "listings-data-layer"]
+	path = listings-data-layer
+	url = https://github.com/simickajecka/listings-data-layer.git
